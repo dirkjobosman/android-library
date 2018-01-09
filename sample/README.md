@@ -4,7 +4,7 @@ Sample application for the Urban Airship SDK.
 
 ## Setup
 
-1) Copy [airshipconfig.properties.sample](src/main/assets/airshipconfig.properties.sample) to `airshipconfig.properites` in
+1) Copy [airshipconfig.properties.sample](src/main/assets/airshipconfig.properties.sample) to `airshipconfig.properties` in
 the assets directory.
 
 2) Update `airshipconfig.properties` with your application's config.
